@@ -463,6 +463,6 @@ print(f"Total search calls: {search_call_count["count"]}")
 The actual run resulting in 3 times of search call, so the nearest answer is **4**.
 
 ## **Notebook**
-For the complete work, you can review my notebook: [hw_01.ipynb](..\01-agentic-rag\code\hw_01.ipynb) in the homework-01 [code folder](..\01-agentic-rag\code).
+For the complete work, you can review my notebook: [hw_01.ipynb](code\hw_01.ipynb) in the homework-01 [code folder](code).
 
 **Thank you.**
