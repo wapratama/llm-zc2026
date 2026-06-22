@@ -39,7 +39,7 @@ RAG system.
 ## Setup
 
 Prepare your environment the same way as in the module's
-[Environment](../../modul/01-agentic-rag/lessons/02-environment.md) lesson.
+[Environment](https://github.com/DataTalksClub/llm-zoomcamp/blob/main/01-agentic-rag/lessons/02-environment.md) lesson.
 
 This homework needs one extra library: `gitsource`, which downloads files
 from a GitHub repository.
@@ -463,6 +463,6 @@ print(f"Total search calls: {search_call_count["count"]}")
 The actual run resulting in 3 times of search call, so the nearest answer is **4**.
 
 ## **Notebook**
-For the complete work, you can review my notebook: [hw_01.ipynb](..\code\hw_01.ipynb) in the homework-01 [code folder](code).
+For the complete work, you can review my notebook: [hw_01.ipynb](code/hw_01.ipynb) in the homework-01 [code folder](code).
 
 **Thank you.**
