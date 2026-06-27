@@ -9,9 +9,9 @@ This repository is my learning journey, code, engineering notes, homeworks, and 
 
 ## Homework (ONGOING)
 
-* Module 1: Agentic RAG - **DONE** ([Solution](homework/01-agentic-rag/homework.md)).
-* Module 2: Vector Search - *Ongoing* ([Solution](homework/02-vector-search/homework.md)). Deadline: 30 June 2026, 06:00 (GMT+7).
-* Module 3: Orchestration - *Not Started* ([Solution](homework/03-orchestration/homework.md)). Deadline: 7 July 2026, 06:00 (GMT+7).
+* Module 1: Agentic RAG - **DONE** ([Solution](homework/01-agentic-rag/homework.md) and [Notebook](homework/01-agentic-rag/code/hw_01.ipynb)).
+* Module 2: Vector Search - **DONE** ([Solution](homework/02-vector-search/homework.md) and [Notebook](homework/02-vector-search/code/hw_02.ipynb)).
+* Module 3: Orchestration - *Ongoing* ([Solution](homework/03-orchestration/homework.md)). Deadline: 7 July 2026, 06:00 (GMT+7).
 * Module 4: Evaluation - *Not Started* ([Solution](homework/04-evaluation/homework.md)). Deadline: 14 July 2026, 06:00 (GMT+7).
 * Module 5: Monitoring - *Not Started* ([Solution](homework/05-monitoring/homework.md)). Deadline: 21 July 2026, 06:00 (GMT+7).
 * Workshop: Data Ingestion - *Not Started* ([Solution](homework/workshops/homework.md)). Deadline: 14 July 2026, 06:00 (GMT+7).
