@@ -69,18 +69,20 @@ Thumbs.db
 **/.vscode/settings.json
 
 # ==============================================================================
-# Ongoing Homework Folders
+# Homework Folders
 # ==============================================================================
 #homework/01-agentic-rag/**
-homework/02-vector-search/**
+#homework/02-vector-search/**
 homework/03-orchestration/**
 homework/04-evaluation/**
 homework/05-monitoring/**
 homework/workshops/**
 
 #homework/01-agentic-rag/code/**
-homework/02-vector-search/code/**
+#homework/02-vector-search/code/**
 homework/03-orchestration/code/**
 homework/04-evaluation/code/**
 homework/05-monitoring/code/**
 homework/workshops/code/**
+
+**/models/**
